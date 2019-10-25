@@ -2,6 +2,8 @@ PURPOSE: Handling https request from a database and html form. Front-end and bac
 
 This is a profile form. It will handle all the information a user will input and send it to a database where it can be processed. Contains a landing page, login page, register page, profile and view info page. NOTE: This was created from my localhost so if you wanted to try it yourself you are going to need to put it on your own localhost in your computer. All my personal locahost information was taken out from the code as well. Below are some screenshots.
 
+
+
 Langauges being used: Html,css,javascript,php,mySQL
 
 Server: Apache24 
